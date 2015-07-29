@@ -3,8 +3,7 @@
 在此感谢这些具有开源精神的创作者们！
 ##自定义TuneWheel类
 源码出自：[http://blog.csdn.net/ttdevs/article/details/38944799](http://blog.csdn.net/ttdevs/article/details/38944799)
-效果图如下：
-![](http://img.blog.csdn.
-net/20140831150159887?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdHRkZXZz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+效果图如下：	
+![](http://img.blog.csdn.net/20140831150159887?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdHRkZXZz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 ##Binder框架解析 翻译
-文章出自:![http://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf](http://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
+文章出自:[http://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf](http://events.linuxfoundation.org/images/stories/slides/abs2013_gargentas.pdf)
