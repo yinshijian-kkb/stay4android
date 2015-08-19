@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="selt_style">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18dip</item>
+    </style>
+</resources>
